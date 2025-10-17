@@ -1,0 +1,34 @@
+title: ShowShark
+theme: just-the-docs
+
+# URLs
+url: "https://devatsjbarresi.github.io"
+baseurl: "" # leave empty for local serve
+
+# Core
+search_enabled: true
+color_scheme: light
+
+# Collections
+collections:
+  documentation:
+    output: true
+    permalink: /docs/:path/
+
+# Just the Docs
+just_the_docs:
+  collections:
+    documentation:
+      name: Documentation
+      nav_fold: true
+  main:
+    collection: documentation
+
+# Auxiliary links (all docs included)
+aux_links:
+  About:
+    - /
+  Download:
+    - /download/
+  Documentation:
+    - /docs/overview/
