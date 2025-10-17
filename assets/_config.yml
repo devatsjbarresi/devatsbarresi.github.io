@@ -1,0 +1,13 @@
+---
+layout: home
+title: ShowShark
+---
+
+<img src="/assets/images/logo.svg" alt="ShowShark logo" width="96" style="float:right;margin:0 0 1rem 1rem;">
+
+**ShowShark** is a Wireshark post‑dissector for entertainment networking — sACN, Art‑Net, RDMnet, and OSC — with helpful host insights.
+
+- 👉 **[Download](/download)**
+- 🔗 **[GitHub Repository](https://github.com/devatsjbarresi/ShowShark)**
+
+_This is a placeholder home page. We can flesh it out once the site frame is live._

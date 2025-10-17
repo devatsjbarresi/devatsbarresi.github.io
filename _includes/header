@@ -1,0 +1,11 @@
+<header class="site-header" role="banner">
+  <div>
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/showshark-logo.png' | relative_url }}" alt="ShowShark logo">
+      ShowShark
+    </a>
+  </div>
+  <nav>
+    <a href="{{ '/download' | relative_url }}">Download</a>
+  </nav>
+</header>

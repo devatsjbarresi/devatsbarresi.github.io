@@ -1,0 +1,11 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ShowShark logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d3b66"/>
+      <stop offset="100%" stop-color="#114b7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#g)"/>
+  <path d="M92 80c-8-18-26-34-44-40 14 10 9 22 4 28-6 6-16 9-26 9 14 7 30 11 50 11 6 0 12-1 16-8z" fill="#ffffff" opacity=".9"/>
+  <circle cx="78" cy="58" r="2.5" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,17 @@
+title: ShowShark
+description: Wireshark post-dissector for entertainment networking (sACN, Art-Net, RDMnet, OSC)
+theme: minima
+url: "https://devatsjbarresi.github.io"
+baseurl: "/devatsbarresi.github.io"
+
+# Top navigation (shows in the header)
+header_pages:
+  - download.md
+
+# Optional niceties GitHub Pages supports
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Logo will be added next step
+logo: /assets/images/logo.svg

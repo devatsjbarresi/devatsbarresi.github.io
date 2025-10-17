@@ -1,0 +1,65 @@
+// --- Custom ShowShark styling ---
+
+// Base colour theme
+$showshark-bg: #1a1a1d;
+$showshark-accent: #8a7fff;
+$showshark-text: #ffffff;
+$showshark-muted: #cccccc;
+
+body {
+  background: #f9f9fb;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #222;
+  margin: 0;
+}
+
+// Header
+.site-header {
+  background: $showshark-bg;
+  color: $showshark-text;
+  padding: 0.8rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid $showshark-accent;
+
+  img {
+    height: 40px;
+    vertical-align: middle;
+    margin-right: 0.75rem;
+  }
+
+  a {
+    color: $showshark-text;
+    text-decoration: none;
+    font-weight: 600;
+
+    &:hover {
+      color: $showshark-accent;
+    }
+  }
+}
+
+// Page content
+.page-content {
+  max-width: 880px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  line-height: 1.6;
+
+  h1, h2, h3 {
+    color: $showshark-bg;
+  }
+
+  em {
+    color: $showshark-accent;
+  }
+}
+
+// Footer
+.site-footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  color: $showshark-muted;
+}
