@@ -1,8 +1,7 @@
 ---
 layout: default
 title: IGMP
-nav_order: 5
-parent: Documentation
+parent: General
 ---
 
 # IGMP (Internet Group Management Protocol)

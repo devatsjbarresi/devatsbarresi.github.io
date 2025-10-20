@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lighting Protocols
+title: Lighting
 parent: Protocols
 has_children: true
 nav_order: 3

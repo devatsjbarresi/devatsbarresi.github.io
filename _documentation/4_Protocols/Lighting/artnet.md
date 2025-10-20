@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Art-Net
-parent: Lighting Protocols
-nav_order: 2
+parent: Lighting
+grand_parent: Protocols
+has_toc: false
+# nav_order: 2
 ---
 
 # Art-Net
